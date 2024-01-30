@@ -55,3 +55,7 @@ export const FACE_EMOJIS = [
     "😤",
     "😭",
   ];
+  
+export const INNER_TEXT = {
+    text: '만들면서 배우는 정말정말정말정말 쓸모없는 프로젝트'
+}
